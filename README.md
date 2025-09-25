@@ -62,8 +62,6 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
     <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="80" height="80" style="margin:5px;" />
     <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="80" height="80" style="margin:5px;" />
     <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="80" height="80" style="margin:5px;" />
-    <img src="https://www.kali.org/tools/bettercap/images/bettercap-logo.svg" width="80" height="80" style="margin:5px;" />
-    <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" width="80" height="80" style="margin:5px;" />
     <img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" width="80" height="80" style="margin:5px;" />
     <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="80" height="80" style="margin:5px;" />
     <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="80" height="80" style="margin:5px;" />
@@ -71,7 +69,6 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
     <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="80" height="80" style="margin:5px;" />
     <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="80" height="80" style="margin:5px;" />
     <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="80" height="80" style="margin:5px;" />
-    <img src="https://www.kali.org/tools/reaver/images/reaver-logo.svg" width="80" height="80" style="margin:5px;" />
     <img src="https://www.kali.org/tools/bully/images/bully-logo.svg" width="80" height="80" style="margin:5px;" />
    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="80" height="80" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" width="80" height="80" style="margin:5px;" />
