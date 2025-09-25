@@ -59,6 +59,7 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
 <br/>
 <div align="center">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="80" height="80" style="margin:5px;" /><br>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elementary_os.png"  width="80" height="80" style="margin:5px;" />
 </div>
 
 <br/>
