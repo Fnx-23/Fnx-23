@@ -58,7 +58,7 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" /><br>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="80" height="80" style="margin:5px;" /><br>
 </div>
 
 <br/>
@@ -67,7 +67,7 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" width="80" height="80" style="margin:5px;" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"  />
   
   <br/><br/><br/>
 </div>
