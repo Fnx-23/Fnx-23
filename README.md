@@ -47,7 +47,7 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png"  width="80" height="80"  style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png"  width="80" height="80" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png"  width="80" height="80" style="margin:5px;" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png"  width="80" height="80" style="margin:5px;" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png"  width="100" height="100" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png"  width="80" height="80" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elementary_os.png"  width="80" height="80" style="margin:5px;" />
 
