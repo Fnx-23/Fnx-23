@@ -42,7 +42,7 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,nmap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" /><br>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png,https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png,https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png,https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" /><br>
 </div>
 
 <br/>
