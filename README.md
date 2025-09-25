@@ -10,11 +10,11 @@
 
 <div align="center">
  
-Hi there 👋
+Hi I'm Fnx23, 👋
 
 I'm Fnx23, a **Bug Hunter** & **Cybersecurity** Enthusiast.  
-I
-specialize in **Linux**, **Networking**, **Systems** & **Cloud** Administration.  
+
+Ispecialize in **Linux**, **Networking**, **Systems** & **Cloud** Administration.  
 
 Passionate about **Ethical Hacking**, **Automation**, and **exploring new technologies**.  
 
