@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fnx-23.Fnx-23" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Bug+Hunter+%26+Cybersecurity+Enthusiast;Linux+Expert;Networking,+Systems+%26+Cloud+Admin;Passionate+about+Ethical+Hacking+%26+Automation)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Fnx23;Bug+Hunter+%26+Cybersecurity+Enthusiast;Passionate+about+Ethical+Hacking)](https://git.io/typing-svg" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
