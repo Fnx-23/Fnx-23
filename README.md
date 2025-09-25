@@ -67,7 +67,7 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" width="80" height="80" style="margin:5px;" />
   
   <br/><br/><br/>
 </div>
