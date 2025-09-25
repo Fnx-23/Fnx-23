@@ -10,13 +10,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+Hi there 👋
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+I'm Fnx23, a **Bug Hunter** & **Cybersecurity** Enthusiast.  
+I specialize in **Linux**, **Networking**, **Systems** & **Cloud** Administration.  
+Passionate about **Ethical Hacking**, **Automation**, and **exploring new technologies**.  
+I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
+ and contributing to open **source projects**.
+**
 
  </div>
  
