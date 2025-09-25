@@ -58,6 +58,7 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="80" height="80" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="80" height="80" style="margin:5px;" />
      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" width="80" height="80" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="80" height="80" style="margin:5px;" />
