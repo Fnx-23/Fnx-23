@@ -58,7 +58,7 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,python,nmap,burpsuite,metasploit,github" /><br>
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" /><br>
 </div>
 
 <br/>
