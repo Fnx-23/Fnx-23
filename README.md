@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Fnx23;Bug+Hunter+%26;Cybersecurity+Enthusiast;Passionate+about+Ethical+Hacking&font=Fira+Code&size=29&duration=2500" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">InfoSec Enthusiast from Morocco</h3>
 
 <br/>
 
