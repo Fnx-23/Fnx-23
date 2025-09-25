@@ -13,11 +13,14 @@
 Hi there 👋
 
 I'm Fnx23, a **Bug Hunter** & **Cybersecurity** Enthusiast.  
-I specialize in **Linux**, **Networking**, **Systems** & **Cloud** Administration.  
+I
+specialize in **Linux**, **Networking**, **Systems** & **Cloud** Administration.  
+
 Passionate about **Ethical Hacking**, **Automation**, and **exploring new technologies**.  
+
 I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
  and contributing to open **source projects**.
-**
+
 
  </div>
  
