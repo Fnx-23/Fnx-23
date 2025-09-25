@@ -38,10 +38,10 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🖥️ Operating system</h2>
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png"  width="80" height="80" style="margin:5px;" />
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png"  width="80" height="80" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png"  width="80" height="80" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"  width="80" height="80" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png"  width="80" height="80"  style="margin:5px;" />
@@ -50,7 +50,6 @@ I enjoy **building practical tools** , **Penetration Testing & Ethical Hacking**
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png"  width="100" height="100" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png"  width="80" height="80" style="margin:5px;" />
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elementary_os.png"  width="80" height="80" style="margin:5px;" />
-
 </div>
 
 <br/>
