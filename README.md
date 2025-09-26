@@ -12,7 +12,7 @@
  
 Hi I'm Fnx23, 👋
 
-I'm Fnx23, a **Bug Hunter** & **Cybersecurity** Enthusiast.  
+ a **Bug Hunter** & **Cybersecurity** Enthusiast.  
 
 Ispecialize in **Linux**, **Networking**, **Systems** & **Cloud** Administration.  
 
