@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Fnx-23.Fnx-23" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Fnx23;Bug+Hunter;Cybersecurity+Enthusiast;Passionate+about+Ethical+Hacking&font=Fira+Code&size=29&duration=2500" />
+    <img src="https://camo.githubusercontent.com/1cc478d6ea38eab530acb98124c749dba0c5b19294bee0ee4bd6169ae4f5639d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966" />
 </h1>
 
 <h3 align="center">InfoSec Enthusiast from Morocco</h3>
