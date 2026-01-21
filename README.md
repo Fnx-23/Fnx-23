@@ -11,11 +11,6 @@
   <p>
     <b>Bug Hunter</b> • <b>Penetration Tester</b> • <b>CTF Player</b>
   </p>
-
-  <a href="https://tryhackme.com/p/Fnx23">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/fnx23.png" alt="TryHackMe Badge"/>
-  </a>
-
   <br/><br/>
 
   <a href="mailto:YOUR_EMAIL@gmail.com">
