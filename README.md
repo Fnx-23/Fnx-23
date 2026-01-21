@@ -81,21 +81,11 @@ I am a cybersecurity enthusiast specializing in **Linux**, **Networking**, and *
 
 ---
 
-### 🎓 Certifications & Training
-
-| Certification | Organization | Status |
-| :--- | :--- | :--- |
-| **Certified in Cybersecurity (CC)** | (ISC)² | <img src="https://img.shields.io/badge/In_Progress-yellow?style=flat-square" /> |
-| **Pre Security Learning Path** | TryHackMe | <img src="https://img.shields.io/badge/Completed-success?style=flat-square" /> |
-| **Jr Penetration Tester** | TryHackMe | <img src="https://img.shields.io/badge/In_Progress-yellow?style=flat-square" /> |
-
-<br/>
-
 ### 📂 Featured Projects
 
 - **🔐 Active Directory Lab**
   - Built a home lab to simulate AD attacks (Kerberoasting, AS-REP Roasting).
-  - *Tools used:* VirtualBox, Windows Server, Impacket.
+  - *Tools used:* Vmware , Windows Server, Impacket.
 
 - **🚩 CTF Automation Scripts**
   - Python scripts to automate reconnaissance and basic enumeration.
