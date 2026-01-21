@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="120"/>
+   <a href="https://tryhackme.com/p/Fnx23">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/fnx23.png" alt="TryHackMe Badge"/>
+  </a>
 
   # Hi there, I'm Fnx23! 👋
 
