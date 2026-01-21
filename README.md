@@ -7,7 +7,7 @@
   ### 🛡️ InfoSec Enthusiast & Linux Specialist from Morocco
 
   <p>
-    <b>Bug Hunter</b> • <b>Penetration Tester</b> • <b>Cloud Admin</b>
+    <b>Bug Hunter</b> • <b>Penetration Tester</b> • <b>CTF Player</b>
   </p>
 
   <a href="https://tryhackme.com/p/Fnx23">
@@ -34,10 +34,10 @@
 
 I am a cybersecurity enthusiast specializing in **Linux**, **Networking**, and **Cloud Administration**. Currently ranked in the **Top 2% on TryHackMe**, I am passionate about ethical hacking, automation, and securing infrastructure.
 
-* 🔭 **Currently working on:** Building and attacking an Active Directory Lab.
+* 🔭 **Currently working on:** Building and attacking an **Active Directory Lab**.
 * 🌱 **Learning:** Advanced Bug Bounty techniques & preparing for **(ISC)² CC**.
 * 💼 **Goal:** Seeking an **Apprenticeship (Ausbildung)** or Job in Cybersecurity.
-* 🐧 **Daily Driver:** Arch Linux / Kali Linux.
+* 🐧 **Daily Driver:** Arch Linux .
 
 ---
 
@@ -47,6 +47,7 @@ I am a cybersecurity enthusiast specializing in **Linux**, **Networking**, and *
 
   **💻 Operating Systems**<br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
@@ -58,7 +59,7 @@ I am a cybersecurity enthusiast specializing in **Linux**, **Networking**, and *
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=flat&logo=burpsuite" />
   <img src="https://img.shields.io/badge/Metasploit-333333?style=flat&logo=metasploit" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-4B8BBE?style=flat&logo=owasp" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=flat&logo=ghidra&logoColor=red" />
   <img src="https://img.shields.io/badge/Hydra-red?style=flat" />
 
   <br/>
@@ -80,18 +81,30 @@ I am a cybersecurity enthusiast specializing in **Linux**, **Networking**, and *
 
 ---
 
-### 🐍 Contribution Graph
+### 🎓 Certifications & Training
 
+| Certification | Organization | Status |
+| :--- | :--- | :--- |
+| **Certified in Cybersecurity (CC)** | (ISC)² | <img src="https://img.shields.io/badge/In_Progress-yellow?style=flat-square" /> |
+| **Pre Security Learning Path** | TryHackMe | <img src="https://img.shields.io/badge/Completed-success?style=flat-square" /> |
+| **Jr Penetration Tester** | TryHackMe | <img src="https://img.shields.io/badge/In_Progress-yellow?style=flat-square" /> |
+
+<br/>
+
+### 📂 Featured Projects
+
+- **🔐 Active Directory Lab**
+  - Built a home lab to simulate AD attacks (Kerberoasting, AS-REP Roasting).
+  - *Tools used:* VirtualBox, Windows Server, Impacket.
+
+- **🚩 CTF Automation Scripts**
+  - Python scripts to automate reconnaissance and basic enumeration.
+  - [View Repository](#)
+
+<br/>
+
+---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Fnx-23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fnx-23&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" />
-  </a>
-  <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fnx-23&hide=HTML&langs_count=6&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
+  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts."</i><br>
+  <b>– Gene Spafford</b>
 </div>
